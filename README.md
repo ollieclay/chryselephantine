@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chryselephantine, a computer science student at Carleton College. 
+- 👋 Hi, I’m @ollieclay, a computer science student at Carleton College.
 
 <!---
 chryselephantine/chryselephantine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
